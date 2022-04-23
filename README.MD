@@ -16,7 +16,7 @@ JS
 ##Uso
 
 ```
-El codigo es abiertoy utilizable por cualuier persona siempre y cuando se repeten los derechos de autor
+El codigo es abierto y utilizable por cualuier persona siempre y cuando se repeten los derechos de autor
 
 ```
 
