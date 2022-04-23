@@ -3,7 +3,7 @@
 ## A continuación el enlace
 [Template](https://themewagon.com/theme-framework/bootstrap-5/)
 
-Foobar is a Python library for dealing with word pluralization.
+## La programación de la pagina se realiza utilizando Metodologia BEM
 
 ## Lenguajes utilizados.
 
